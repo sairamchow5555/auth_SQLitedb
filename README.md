@@ -1,3 +1,16 @@
+# Login 
+![Screenshot_1706590749](https://github.com/sairamchow5555/authenticationLogin/assets/126855559/41488af2-73b9-4ddb-9adb-4475e17010c3)
+
+# Signup 
+![Screenshot_1706590758](https://github.com/sairamchow5555/authenticationLogin/assets/126855559/79eb401f-ab67-4016-8e61-1b20b6c938f2)
+
+# User Registration
+![Screenshot_1706590772](https://github.com/sairamchow5555/authenticationLogin/assets/126855559/824ae5ae-305f-44be-9c42-8c7053410afc)
+![Screenshot_1706590795](https://github.com/sairamchow5555/authenticationLogin/assets/126855559/ac7aa5a0-fe79-4a82-a4f4-eb4c03fb4846)
+
+# HomeScreen
+![Screenshot_1706590818](https://github.com/sairamchow5555/authenticationLogin/assets/126855559/79a6c055-a973-492a-9be5-0cf95e9ff10f)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
